@@ -1,0 +1,6 @@
+{
+  "dataset": "CHBMIT",
+  "datadir": "/home/hgd/epilepsy_dataset/CHBMIT",
+  "cachedir": "/home/mtt/desktop/paper2/dataset",
+  "resultdir": "results"
+}

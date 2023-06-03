@@ -1,0 +1,6 @@
+{
+  "dataset": "Kaggle2014Pred",
+  "datadir": "/home/hgd/epilepsy_dataset/Kaggle/",
+  "cachedir": "/home/mtt/desktop/paper2/dataset/kaggle_cache/",
+  "resultdir": "results"
+}
